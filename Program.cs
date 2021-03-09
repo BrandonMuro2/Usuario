@@ -9,7 +9,7 @@ namespace Usuario
 
     class Usuario
     {
-        //Atributos = Campos
+        //Atributos = Campos, Hola
         private string nombre;
         private string correo;
         private int numeroSeguidores;
